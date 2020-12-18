@@ -3,7 +3,7 @@ appname: apache
 replicaCount: 1
 image:
   repository: docker.io/bitnami/apache
-  tag: 2.4.41-debian-10-r29
+  tag: 2.4.46-debian-10-r115
   pullPolicy: IfNotPresent
 
 service:
